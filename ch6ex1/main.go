@@ -8,11 +8,11 @@ import (
 	"time"
 )
 
-// Public proxies from https://free-proxy-list.net/
+// Public proxies from https://hidemyna.me
 var proxies []string = []string{
-	"http://76.123.162.68:8080",
-	"http://162.223.89.92:8080",
-	"http://104.248.183.73:80",
+	"http://207.154.231.208:8080",
+	"http://138.68.230.88:8080",
+	"http://162.243.107.45:8080",
 }
 
 func GetProxy(_ *http.Request) (*url.URL, error) {
@@ -28,7 +28,7 @@ func main() {
 
 	// Continue with your HTTP requests
 	for i := 0; i < 5; i++ {
-		resp, err := http.Get("https://api.ipify.org")
+		resp, err := http.Get("http://ip-api.com/line")
 		if err != nil {
 			panic(err)
 		}
