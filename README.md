@@ -51,13 +51,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-web-scraping-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787285219)
+*  Python Web Scraping Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-web-scraping-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787285219)
 
-*  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-13873-6)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+*  R Web Scraping Quick Start Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-13873-6)
 
 ## Get to Know the Author
 **Vincent Smith**
