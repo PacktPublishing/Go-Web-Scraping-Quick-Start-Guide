@@ -1,16 +1,24 @@
-# 
+# Go Web Scraping Quick Start Guide
 
-<a href=""><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B12056_New1.png" alt="Go Web Scraping Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [](), published by Packt.
+This is the code repository for [Go Web Scraping Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708 ), published by Packt.
 
 **Implement the power of Go to scrape and crawl data from the web**
 
 ## What is this book about?
-0
+Web scraping is the process of extracting information from the web using various tools that perform scraping and crawling. Go is emerging as the language of choice for scraping using a variety of libraries. This book will quickly explain to you, how to scrape data data from various websites using Go libraries such as Colly and Goquery.
 
 This book covers the following exciting features:
-
+Implement Cache-Control to avoid unnecessary network calls 
+Coordinate concurrent scrapers 
+Design a custom, larger-scale scraping system 
+Scrape basic HTML pages with Colly and JavaScript pages with chromedp 
+Discover how to search using the "strings" and "regexp" packages 
+Set up a Go development environment 
+Retrieve information from an HTML document 
+Protect your web scraper from being blocked by using proxies 
+Control web browsers to scrape JavaScript sites 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789615704) today!
 
@@ -37,15 +45,15 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1-8 | Git (2.0+) | Windows, Mac OS X, and Linux (Any) |
-| 1-8 | Go (1.11) | Windows, Mac OS X, and Linux (Any) |
+| 1-8 | Git (2.0+) | Windows, Mac OS X, and Linux |
+| 1-8 | GO (1.11) | Windows, Mac OS X, and Linux  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
 *  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-web-scraping-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787285219)
 
-*  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789138736)
+*  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-13873-6)
 
 *  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
@@ -53,30 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Vincent Smith**
- has been a software engineer for 10 years, having worked in various fields from health and IT to machine learning, and large-scale web scrapers. He has worked for both large-scale Fortune 500 companies and start-ups alike and has sharpened his skills from the best of both worlds. While obtaining a degree in electrical engineering, he learned the foundations of writing good code through his Java courses. These basics helped spur his career in software development early in his professional career in order to provide support for his team. He fell in love with the process of teaching computers how to behave and set him on the path he still walks today.
-
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
+has been a software engineer for 10 years, having worked in various fields from health and IT to machine learning, and large-scale web scrapers. He has worked for both large-scale Fortune 500 companies and start-ups alike and has sharpened his skills from the best of both worlds. While obtaining a degree in electrical engineering, he learned the foundations of writing good code through his Java courses. These basics helped spur his career in software development early in his professional career in order to provide support for his team. He fell in love with the process of teaching computers how to behave and set him on the path he still walks today.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
