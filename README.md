@@ -1,6 +1,6 @@
 # Go Web Scraping Quick Start Guide
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B12056_New1.png" alt="Go Web Scraping Quick Start Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708 "><img src="https://www.packtpub.com/sites/default/files/B12056_New1.png" alt="Go Web Scraping Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [Go Web Scraping Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708 ), published by Packt.
 
@@ -10,15 +10,15 @@ This is the code repository for [Go Web Scraping Quick Start Guide](https://www.
 Web scraping is the process of extracting information from the web using various tools that perform scraping and crawling. Go is emerging as the language of choice for scraping using a variety of libraries. This book will quickly explain to you, how to scrape data data from various websites using Go libraries such as Colly and Goquery.
 
 This book covers the following exciting features:
-Implement Cache-Control to avoid unnecessary network calls 
-Coordinate concurrent scrapers 
-Design a custom, larger-scale scraping system 
-Scrape basic HTML pages with Colly and JavaScript pages with chromedp 
-Discover how to search using the "strings" and "regexp" packages 
-Set up a Go development environment 
-Retrieve information from an HTML document 
-Protect your web scraper from being blocked by using proxies 
-Control web browsers to scrape JavaScript sites 
+* Implement Cache-Control to avoid unnecessary network calls 
+* Coordinate concurrent scrapers 
+* Design a custom, larger-scale scraping system 
+* Scrape basic HTML pages with Colly and JavaScript pages with chromedp 
+* Discover how to search using the "strings" and "regexp" packages 
+* Set up a Go development environment 
+* Retrieve information from an HTML document 
+* Protect your web scraper from being blocked by using proxies 
+* Control web browsers to scrape JavaScript sites 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789615704) today!
 
