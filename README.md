@@ -48,8 +48,6 @@ With the following software and hardware list you can run all code files present
 | 1-8 | Git (2.0+) | Windows, Mac OS X, and Linux |
 | 1-8 | GO (1.11) | Windows, Mac OS X, and Linux  |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
-
 ### Related products
 *  Python Web Scraping Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-web-scraping-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787285219)
 
