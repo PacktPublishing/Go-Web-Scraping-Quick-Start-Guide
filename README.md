@@ -41,7 +41,7 @@ username=myuser&password=supersecretpw
 **Following is what you need for this book:**
 Data scientists, and web developers with a basic knowledge of Golang wanting to collect web data and analyze them for effective reporting and visualization.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-43473).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
@@ -53,7 +53,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 *  Python Web Scraping Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-web-scraping-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787285219)
 
-*  R Web Scraping Quick Start Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-13873-6)
+*  R Web Scraping Quick Start Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789138736)
 
 ## Get to Know the Author
 **Vincent Smith**
