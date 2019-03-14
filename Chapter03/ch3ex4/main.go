@@ -35,7 +35,7 @@ func main() {
 	}
 
 	// Look for the flag added by httpcache to show the result is read from the cache
-	_, ok = resp.Header["X-From-Cache"]
+	_, ok := resp.Header["X-From-Cache"]
 	if ok {
 		println("Result was pulled from the cache!")
 	}
