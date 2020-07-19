@@ -1,6 +1,7 @@
 # Go Web Scraping Quick Start Guide
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708 "><img src="https://www.packtpub.com/sites/default/files/B12056_New1.png" alt="Go Web Scraping Quick Start Guide" height="256px" align="right"></a>
+[<img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/b/1/b12056_new1.png" height="256px" align="right" alt="Go Web Scraping Quick Start Guide">](https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708)
+
 
 This is the code repository for [Go Web Scraping Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/go-web-scraping-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789615708 ), published by Packt.
 
